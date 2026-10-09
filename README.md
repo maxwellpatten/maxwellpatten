@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***pdf2ledger***: Turns Canadian bank and credit card PDF statements into clean, standardized CSVs, locally. 
+- 🔭 I’m currently working on ***pdf2ledger***: Turns Canadian bank and credit card PDF statements into clean, standardized CSVs, locally.
+
+### 📚 Currently learning
+- **Production LLM engineering**: RAG, agents, MCP, LangGraph, evals and fine-tuning
+- **Building with Claude**: Anthropic's courses on prompting and tool use
+   
 <!--
 **maxwellpatten/maxwellpatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
